@@ -12,7 +12,7 @@
             "type": "node",
             "request": "launch",
             "name": "Jest All",
-            "program": "${workspaceFolder}/node_modules/.bin/jest",
+            "program": "${workspaceFolder}/scripts/test.js",
             "args": ["--runInBand"],
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
